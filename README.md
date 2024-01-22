@@ -1,12 +1,12 @@
 # Hi there, I'm Kayode Raheem 👋
 
 ## About Me
-- 🎓 I'm currently studying [Your Field or Major] at [Your University/College].
-- 💻 I'm passionate about [topics you are interested in, e.g., web development, machine learning].
+- 🎓 I'm currently studying MS Bioinformatics at COMSATS University Islamabad.
+- 💻 I'm passionate about [topics you are interested in Cancer Genomics, Machine Learning.
 - 🌱 I’m currently learning [skills or technologies you're learning].
-- 👯 I’m looking to collaborate on [type of projects or technologies you're interested in].
+- 👯 I’m looking to collaborate on projects.
 - 🤔 I’m looking for help with [something you're struggling with].
-- 💬 Ask me about [topics you are knowledgeable in].
+- 💬 Ask me about Bioinformatics, NGS, and Machine Learning.
 - 📫 How to reach me: [Your email or LinkedIn profile].
 - 😄 Pronouns: [Your pronouns].
 - ⚡ Fun fact: [An interesting fact about you].
