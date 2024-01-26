@@ -5,9 +5,9 @@
 - 💻 I'm passionate about Cancer Genomics, Machine Learning.
 - 👯 I’m looking to collaborate on projects.
 - 💬 Ask me about Bioinformatics, NGS, and Machine Learning.
-- 📫 How to reach me: [raheemkayode2017@gmail.com].
-- 😄 Pronouns: [He/His].
-- ⚡ Fun fact: [Traveling, Reading].
+- 📫 How to reach me: raheemkayode2017@gmail.com.
+- 😄 Pronouns: He/His.
+- ⚡ Fun fact: Traveling, Reading.
 
 ## My GitHub Stats
 ![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
