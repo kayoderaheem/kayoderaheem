@@ -20,7 +20,7 @@
 ... (add as many as you like)
 
 ## Connect with me:
-[<img align="left" alt="YourLinkdinURL | LinkedIn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][]
+[<img align="left" alt="YourLinkdinURL | LinkedIn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://www.linkedin.com/in/raheemkayode01/]
 [<img align="left" alt="YourTwitterURL | Twitter" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/twitter.svg" />][twitter]
 ... (add other social media links)
 
