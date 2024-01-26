@@ -2,14 +2,12 @@
 
 ## About Me
 - 🎓 I'm currently studying MS Bioinformatics at COMSATS University Islamabad.
-- 💻 I'm passionate about [topics you are interested in Cancer Genomics, Machine Learning.
-- 🌱 I’m currently learning [skills or technologies you're learning].
+- 💻 I'm passionate about Cancer Genomics, Machine Learning.
 - 👯 I’m looking to collaborate on projects.
-- 🤔 I’m looking for help with [something you're struggling with].
 - 💬 Ask me about Bioinformatics, NGS, and Machine Learning.
-- 📫 How to reach me: [Your email or LinkedIn profile].
-- 😄 Pronouns: [Your pronouns].
-- ⚡ Fun fact: [An interesting fact about you].
+- 📫 How to reach me: [raheemkayode2017@gmail.com].
+- 😄 Pronouns: [He/His].
+- ⚡ Fun fact: [Traveling, Reading].
 
 ## My GitHub Stats
 ![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
@@ -22,7 +20,7 @@
 ... (add as many as you like)
 
 ## Connect with me:
-[<img align="left" alt="YourLinkdinURL | LinkedIn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][linkedin]
+[<img align="left" alt="YourLinkdinURL | LinkedIn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][]
 [<img align="left" alt="YourTwitterURL | Twitter" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/twitter.svg" />][twitter]
 ... (add other social media links)
 
