@@ -25,7 +25,7 @@
 [<img align="left" alt="Google Scholar" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/book.svg" />](https://scholar.google.com/citations?user=6i3ypWwAAAAJ&hl=en)
 
 
-[linkedin]: https://www.linkedin.com/in/raheemkayode01/
-[twitter]: YourTwitterURL
+[linkedin]: https://www.linkedin.com/in/raheemkayode01
+[twitter]: https://twitter.com/yomikayode3
 
 <!-- This is a comment. Use comments to leave notes that won't be displayed in the final README -->
