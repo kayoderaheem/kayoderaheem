@@ -17,12 +17,13 @@
 
 <code><img height="20" src="Python"></code>
 <code><img height="20" src="URL_to_icon_of_another_language_or_tool"></code>
-... (add as many as you like)
+
 
 ## Connect with me:
-[<img align="left" alt="YourLinkdinURL | LinkedIn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://www.linkedin.com/in/raheemkayode01/]
-[<img align="left" alt="YourTwitterURL | Twitter" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/twitter.svg" />][twitter]
-... (add other social media links)
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.linkedin.com/in/raheemkayode01/)
+[<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/twitter.svg" />](https://twitter.com/yomikayode3)
+[<img align="left" alt="Google Scholar" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/book.svg" />](https://scholar.google.com/citations?user=6i3ypWwAAAAJ&hl=en)
+
 
 [linkedin]: https://www.linkedin.com/in/raheemkayode01/
 [twitter]: YourTwitterURL
