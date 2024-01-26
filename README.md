@@ -24,7 +24,7 @@
 [<img align="left" alt="YourTwitterURL | Twitter" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/twitter.svg" />][twitter]
 ... (add other social media links)
 
-[linkedin]: YourLinkedInURL
+[linkedin]: https://www.linkedin.com/in/raheemkayode01/
 [twitter]: YourTwitterURL
 
 <!-- This is a comment. Use comments to leave notes that won't be displayed in the final README -->
