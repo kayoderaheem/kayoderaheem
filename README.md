@@ -1,7 +1,7 @@
 # Hi there, I'm Kayode Raheem 👋
 
 ## About Me
-- 🎓 I'm currently studying MS Bioinformatics at COMSATS University Islamabad.
+- 🎓 I hold an MS in Bioinformatics from COMSATS University Islamabad.
 - 💻 I'm passionate about Cancer Genomics, Machine Learning.
 - 👯 I’m looking to collaborate on projects.
 - 💬 Ask me about Bioinformatics, NGS, and Machine Learning.
