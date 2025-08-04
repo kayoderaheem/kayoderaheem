@@ -2,7 +2,7 @@
 
 ## About Me
 - 🎓 I hold an MS in Bioinformatics from COMSATS University Islamabad.
-- 💻 I'm passionate about Cancer Genomics, Machine Learning.
+- 💻 I'm passionate about Cancer Genomics, Drug Design, Spatial Transcriptomics, Machine Learning.
 - 👯 I’m looking to collaborate on projects.
 - 💬 Ask me about Bioinformatics, NGS, and Machine Learning.
 - 📫 How to reach me: raheemkayode2017@gmail.com.
